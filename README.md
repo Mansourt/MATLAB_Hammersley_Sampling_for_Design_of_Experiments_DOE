@@ -1,6 +1,6 @@
 ## Project
 
-Hammersley Sampling Method ultilized for Design Of Experiments (DOE)
+Hammersley Sampling Method utilized for Design Of Experiments (DOE)
 
 ## Usage
 
